@@ -13,9 +13,13 @@ Consulta la [descripción general de Ingeniería de Software I](CONTEXTO_MATERIA
 - Las transcripciones están dentro de la carpeta de su clase.
 - Cuando existe, `Contexto complementario.md` amplía los temas tratados en esa sesión.
 
-## Material complementario
+## Recursos para agentes de IA
 
-- [Agentes de IA: método de cuatro pasos](<Material complementario - Agentes de IA/README.md>): síntesis de dos transcripciones del mismo video.
+Archivos reutilizables basados en el método explicado en las transcripciones, sin convertir sus ejemplos en reglas generales:
+
+- [Manual del agente](<Material complementario - Agentes de IA/Agents.md>)
+- [Memoria del agente](<Material complementario - Agentes de IA/Memory.md>)
+- [Habilidad para crear o mejorar habilidades](<Material complementario - Agentes de IA/Skills/crear-o-mejorar-skills/SKILL.md>)
 
 ## Nota de lectura
 
