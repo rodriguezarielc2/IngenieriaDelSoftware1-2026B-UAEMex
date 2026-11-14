@@ -5,7 +5,7 @@ Repositorio de apuntes y materiales de apoyo de la asignatura.
 ## Cómo navegar
 
 - [Contexto y recorrido de las clases 1–21](CONTEXTO_MATERIA_CLASES_01-21.md)
-- Cada carpeta comienza con `Clase N` y un título breve; cuando se conoce, la fecha aparece al final.
+- Cada carpeta comienza con `Clase NN` (número de dos dígitos) y un título breve; cuando se conoce, la fecha aparece al final.
 - Las transcripciones están dentro de la carpeta de su clase.
 - Cuando existe, `Contexto complementario.md` amplía los temas tratados en esa sesión.
 
