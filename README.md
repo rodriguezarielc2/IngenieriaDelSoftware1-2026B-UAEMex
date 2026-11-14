@@ -22,7 +22,7 @@ El proyecto final consiste en analizar y documentar en equipo un sistema integra
 
 ### Módulos y coordinación
 
-En la organización planteada en clase, el sistema se divide en seis módulos: alumnos, inscripciones, profesores, asignaturas y materias, calendario de exámenes y registro de calificaciones. Cada módulo tiene responsabilidades propias, pero el producto debe funcionar como un sistema homogéneo: los equipos deben identificar qué información intercambian, cómo se relacionan sus procesos y qué dependencias existen entre módulos. Por ello, cada integrante debe poder explicar el propósito general del sistema y la interacción entre módulos, no solo la parte asignada a su equipo.
+La distribución inicial de clase asignó seis módulos: alumnos, inscripciones, profesores, asignaturas y materias, calendario de exámenes y registro de calificaciones. En el análisis posterior también se discutió la necesidad de periodos escolares, grupos y aulas, un catálogo de exámenes y autenticación compartida. Por tanto, la lista inicial no debe tomarse como el catálogo definitivo: el equipo debe confirmar la organización vigente con el repositorio del proyecto y las indicaciones más recientes del docente. Cada módulo tiene responsabilidades propias, pero el producto debe funcionar como un sistema homogéneo: los equipos deben identificar qué información intercambian, cómo se relacionan sus procesos y qué dependencias existen entre módulos. Por ello, cada integrante debe poder explicar el propósito general del sistema y la interacción entre módulos, no solo la parte asignada a su equipo.
 
 ### Documentación del proyecto
 
@@ -39,11 +39,11 @@ La estructura del entregable todavía se estaba completando en la clase 21; all�
 
 ## Recursos para agentes de IA
 
-Archivos reutilizables basados en el método explicado en las transcripciones, sin convertir sus ejemplos en reglas generales:
+Archivos configurados para apoyar el proyecto final de control escolar, aplicando la separación entre instrucciones, memoria y habilidades sin convertir los ejemplos del video en requisitos del sistema:
 
-- [Manual del agente](<Material complementario - Agentes de IA/Agents.md>)
-- [Memoria del agente](<Material complementario - Agentes de IA/Memory.md>)
-- [Habilidad para crear o mejorar habilidades](<Material complementario - Agentes de IA/Skills/crear-o-mejorar-skills/SKILL.md>)
+- [Manual del agente del proyecto final](<Material complementario - Agentes de IA/Agents.md>)
+- [Memoria del proyecto final](<Material complementario - Agentes de IA/Memory.md>)
+- [Habilidad para documentar un módulo de control escolar](<Material complementario - Agentes de IA/Skills/documentar-modulo-control-escolar/SKILL.md>)
 
 ## Nota de lectura
 
