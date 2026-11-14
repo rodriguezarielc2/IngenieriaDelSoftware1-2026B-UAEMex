@@ -1,14 +1,18 @@
 # Ingeniería de Software I — UAEMex, 2026B
 
-Repositorio de apuntes y materiales de apoyo de la asignatura.
+Materiales de apoyo para estudiar y trabajar los temas de la asignatura.
 
-## Cómo navegar
+## Descripción de la materia
 
-- [Contexto y recorrido de las clases 1–21](CONTEXTO_MATERIA_CLASES_01-21.md)
-- Cada carpeta comienza con `Clase NN` (número de dos dígitos) y un título breve; cuando se conoce, la fecha aparece al final.
+La materia estudia cómo analizar necesidades y problemas para especificar, modelar, construir y evaluar soluciones de software, tomando en cuenta a sus usuarios, las organizaciones, los procesos y la calidad. Los materiales abarcan pensamiento sistémico, requisitos, procesos de desarrollo, modelado, pruebas y colaboración. Como caso integrador se trabaja un sistema de control escolar.
+
+Consulta la [descripción general de Ingeniería de Software I](CONTEXTO_MATERIA_CLASES_01-21.md), elaborada a partir de los materiales disponibles hasta la clase 21.
+
+## Materiales
+
 - Las transcripciones están dentro de la carpeta de su clase.
 - Cuando existe, `Contexto complementario.md` amplía los temas tratados en esa sesión.
 
-## Criterio de lectura
+## Nota de lectura
 
 Las transcripciones pueden contener errores de reconocimiento o fragmentos incompletos. El contexto complementario sirve como apoyo y no sustituye la transcripción ni convierte los ejemplos de clase en requisitos oficiales del proyecto.
