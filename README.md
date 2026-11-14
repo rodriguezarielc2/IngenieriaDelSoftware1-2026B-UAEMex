@@ -13,6 +13,10 @@ Consulta la [descripción general de Ingeniería de Software I](CONTEXTO_MATERIA
 - Las transcripciones están dentro de la carpeta de su clase.
 - Cuando existe, `Contexto complementario.md` amplía los temas tratados en esa sesión.
 
+## Material complementario
+
+- [Agentes de IA: método de cuatro pasos](<Material complementario - Agentes de IA/README.md>): síntesis de dos transcripciones del mismo video.
+
 ## Nota de lectura
 
 Las transcripciones pueden contener errores de reconocimiento o fragmentos incompletos. El contexto complementario sirve como apoyo y no sustituye la transcripción ni convierte los ejemplos de clase en requisitos oficiales del proyecto.
