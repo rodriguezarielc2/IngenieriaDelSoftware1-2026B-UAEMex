@@ -17,8 +17,6 @@ En los materiales disponibles hasta la clase 21 se desarrollan varios ejes relac
 
 En conjunto, la asignatura busca desarrollar la capacidad de analizar antes de diseñar, comunicar necesidades con claridad, expresar una solución mediante requisitos y modelos, considerar su calidad y restricciones, y colaborar en su integración. Esta descripción se basa en los materiales disponibles hasta la clase 21 y no sustituye el programa oficial ni las instrucciones vigentes del docente.
 
-Consulta la [descripción general de Ingeniería de Software I](CONTEXTO_MATERIA_CLASES_01-21.md), elaborada a partir de los materiales disponibles hasta la clase 21.
-
 ## Materiales
 
 - Las transcripciones están dentro de la carpeta de su clase.
