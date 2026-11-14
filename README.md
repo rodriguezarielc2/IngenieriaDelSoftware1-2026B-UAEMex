@@ -4,7 +4,19 @@ Materiales de apoyo para estudiar y trabajar los temas de la asignatura.
 
 ## Descripción de la materia
 
-La materia estudia cómo analizar necesidades y problemas para especificar, modelar, construir y evaluar soluciones de software, tomando en cuenta a sus usuarios, las organizaciones, los procesos y la calidad. Los materiales abarcan pensamiento sistémico, requisitos, procesos de desarrollo, modelado, pruebas y colaboración. Como caso integrador se trabaja un sistema de control escolar.
+Ingeniería de Software I estudia cómo transformar una necesidad real en una solución de software bien planteada. Para ello, primero se analiza el problema y el contexto donde ocurre: quiénes participan, qué procesos existen, qué información se necesita, qué recursos están disponibles y qué límites o restricciones debe respetar el sistema. La materia promueve justificar las decisiones con información y necesidades identificadas, en lugar de comenzar directamente por una solución técnica.
+
+En los materiales disponibles hasta la clase 21 se desarrollan varios ejes relacionados:
+
+- **Sistemas y organizaciones:** componentes, entradas, procesos, salidas, retroalimentación, límites y relación con el entorno; también se estudian sistemas de información dentro de las organizaciones.
+- **Procesos de software:** ciclo de vida, modelos de desarrollo y enfoques iterativos. Se revisan prácticas y marcos como Scrum, Kanban y DevOps.
+- **Análisis y requisitos:** recopilación de información, entrevistas, identificación de usuarios y necesidades, definición del alcance, requisitos funcionales y no funcionales, viabilidad y criterios de calidad.
+- **Diseño y modelado:** representación de actores, procesos, datos, componentes y comportamiento mediante casos de uso y diagramas de contexto, flujo de datos, clases, secuencia, estados y actividades.
+- **Verificación y colaboración:** pruebas y aspectos de calidad como rendimiento y disponibilidad, organización modular del trabajo y uso de control de versiones para coordinar e integrar aportaciones.
+
+Como hilo integrador se utiliza un sistema de control escolar. El caso permite estudiar problemas como la asignación de horarios y recursos, identificar la información que falta, delimitar necesidades y representar partes e interacciones del sistema. Así, los conceptos de análisis, requisitos, modelado, calidad y colaboración se aplican a un mismo problema a lo largo del curso. Los ejemplos de clase sirven para practicar y no establecen por sí solos todos los requisitos oficiales del proyecto.
+
+En conjunto, la asignatura busca desarrollar la capacidad de analizar antes de diseñar, comunicar necesidades con claridad, expresar una solución mediante requisitos y modelos, considerar su calidad y restricciones, y colaborar en su integración. Esta descripción se basa en los materiales disponibles hasta la clase 21 y no sustituye el programa oficial ni las instrucciones vigentes del docente.
 
 Consulta la [descripción general de Ingeniería de Software I](CONTEXTO_MATERIA_CLASES_01-21.md), elaborada a partir de los materiales disponibles hasta la clase 21.
 
