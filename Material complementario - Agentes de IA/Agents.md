@@ -31,6 +31,7 @@ Si dos fuentes discrepan, señala la diferencia y sigue la instrucción vigente.
 - Mantén separados el contexto general del sistema, las decisiones de cada módulo, la memoria de decisiones y los archivos propios de cada proyecto.
 - Protege los datos de estudiantes y otras personas. Usa datos ficticios o anonimizados en ejemplos y documentos de trabajo.
 - Escribe la documentación en español claro y en Markdown, salvo que el template vigente indique otra cosa.
+- Revisa puntuación, tildes y signos de interrogación/exclamación de apertura y cierre en español de México, incluidos títulos y tablas. No añadas signos a las interrogativas indirectas. Las correcciones puntuales de transcripciones deben conservar las palabras y señalarse como revisión de puntuación; no equivalen a cotejo contra audio. Las respuestas de encuesta se conservan literales.
 - No afirmes que un archivo se actualizó, que un diagrama es correcto o que una habilidad fue validada sin comprobarlo.
 
 ## Estructura del agente

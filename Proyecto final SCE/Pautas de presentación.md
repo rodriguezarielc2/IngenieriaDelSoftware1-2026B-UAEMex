@@ -8,6 +8,7 @@ Guía propuesta para los documentos y aportaciones del proyecto SCE. La [plantil
 |---|---|
 | Títulos | Un título principal `#` por archivo; secciones `##` y subsecciones `###`, sin saltar niveles. Usar mayúscula inicial. Numerar solo cuando lo requiera la estructura del entregable. |
 | Redacción | Español claro, párrafos breves y una idea por párrafo. Explicar las siglas al primer uso. |
+| Puntuación | Revisar tildes, comas y puntos. Las preguntas directas llevan apertura y cierre `¿...?`, también en títulos y tablas; las exclamaciones, `¡...!`. Las interrogativas indirectas, como “explicar qué ocurre”, no llevan esos signos. |
 | Énfasis | Negritas para conceptos o estados importantes; código entre comillas invertidas para rutas, identificadores y sintaxis. Evitar emojis, adornos y mayúsculas sostenidas en documentos del proyecto. |
 | Listas y tablas | Listas para pasos o enumeraciones; tablas para comparar elementos del mismo tipo. Encabezados claros y una fila por elemento. |
 | Espaciado | Dejar una línea en blanco después de títulos y antes de listas, tablas y bloques de código. |
@@ -28,6 +29,7 @@ Usar **Por iniciar**, **En preparación**, **En revisión**, **PR enviado** e **
 ## Antes de compartir
 
 - [ ] El contenido sigue la plantilla aplicable y estas pautas.
+- [ ] Se revisaron la puntuación y los signos de apertura y cierre; las respuestas literales de la encuesta se conservaron.
 - [ ] Los enlaces e imágenes abren y los diagramas incluyen su fuente.
 - [ ] Actores, términos e identificadores coinciden con los módulos relacionados.
 - [ ] Las fuentes y decisiones pendientes son claras y se retiraron datos personales innecesarios.

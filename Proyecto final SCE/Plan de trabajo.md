@@ -74,7 +74,7 @@ Las fases tienen criterios de salida. Se puede corregir el índice y preparar ev
 | D03 | Diferencia entre matrícula/identificador visible, ID interno y cuenta | E1, E2, E3 | Claves y relaciones acordadas; generación y activación de matrícula asignadas. |
 | D04 | Jerarquía de actores y roles simultáneos | Todos; E1 consolida propuesta | Catálogo de roles y matriz de permisos compatible con el diagrama propuesto en #54. |
 | D05 | Propietario de ventanas de inscripción, captura de notas y exámenes | E2, E5, E6 | Reglas temporales sin configuraciones duplicadas o contradictorias. |
-| D06 | Qué incluye “recurso” y cómo se relaciona con aulas | E5 y consumidores | Catálogo o clasificación y condiciones de disponibilidad definidas. |
+| D06 | ¿Qué incluye “recurso” y cómo se relaciona con aulas? | E5 y consumidores | Catálogo o clasificación y condiciones de disponibilidad definidas. |
 | D07 | Datos que el profesor puede editar en su perfil y qué administra Control Escolar | E1, E3 | Lista por campo y permiso; sin contradicción entre RF-07 y RNF-01. |
 | D08 | Normas de evaluación, plazos, conservación y calidad medible | E6, responsables de cada módulo, docente | Fuente institucional o acuerdo explícito; ninguna cifra se inventa a partir de testimonios. |
 
@@ -94,6 +94,6 @@ Para cada requisito se propone mantener una fila de trazabilidad: `ID → fuente
 4. Cada equipo identifica sus datos y casos de uso y estima su trabajo después de acordar el alcance.
 5. Se fija la siguiente revisión y se confirma con el docente la fecha oficial. Hasta entonces, el calendario sigue por confirmar.
 
-## Cómo proponer cambios al profesor
+## ¿Cómo proponer cambios al profesor?
 
 Usar [los paquetes de propuestas](<Propuestas de cambios/README.md>). Primero actualizar la referencia oficial, revisar si ya existe un PR equivalente, aplicar solo el cambio propio en una rama basada en `develop`, comprobar los archivos afectados y preparar una descripción de menos de 50 palabras. Los commits deben tener menos de 24 palabras, según el template vigente. El envío al repositorio oficial lo realiza el integrante responsable cuando el equipo haya revisado su aportación.

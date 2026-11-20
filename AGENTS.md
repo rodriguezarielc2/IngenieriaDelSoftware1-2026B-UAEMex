@@ -2,6 +2,8 @@
 
 Estas instrucciones se aplican a los materiales de esta asignatura y a la carpeta `Proyecto final SCE`. Responde en español de México, con precisión y sin inventar requisitos ni resultados.
 
+Revisar puntuación, tildes y signos de apertura y cierre antes de entregar. Las preguntas directas, también en títulos y tablas, llevan `¿...?`; las exclamaciones llevan `¡...!`. Distinguirlas de interrogativas indirectas como “explicar qué necesita el sistema”. Conservar las respuestas literales de la encuesta; no corregirlas como si fueran redacción propia.
+
 ## Lectura al comenzar
 
 Antes de planear o modificar documentos, leer:

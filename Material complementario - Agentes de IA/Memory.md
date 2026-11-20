@@ -110,3 +110,18 @@ Agrega aquí criterios confirmados por el docente o por el equipo, con fecha, al
 - Las pautas de presentación siguen siendo una propuesta común sujeta a acuerdo del grupo; la plantilla e indicaciones vigentes del docente tienen prioridad.
 
 **Siguiente paso útil:** revisar con los equipos el plan y los tres paquetes, aceptar responsables y resolver las decisiones de alcance/datos necesarias antes de preparar los modelos y los envíos oficiales. No hay evidencia en este registro de que esos acuerdos ya se hayan tomado.
+
+### Revisión de puntuación en español de México — 19 de noviembre de 2026
+
+**Estado:** confirmado por el usuario y aplicado en esta revisión editorial.
+
+**Fuentes:** corrección de este chat, [pautas de presentación](<../Proyecto final SCE/Pautas de presentación.md>) y [nota de lectura del repositorio](../README.md#nota-de-lectura).
+
+**Alcance:** documentos del repositorio personal, instrucciones y correcciones puntuales de las transcripciones; respuestas de encuesta preservadas.
+
+- El usuario señaló la omisión de signos y pidió revisar todo el repositorio conforme al español de México. Revisar apertura y cierre de preguntas/exclamaciones, puntuación y tildes; incluir títulos y tablas en la revisión.
+- Se ajustaron seis encabezados y tres rótulos de tabla formulados como preguntas. Las interrogativas indirectas conservan su estructura sin signos adicionales.
+- Durante la revisión apareció en la rama remota la [corrección a2ee127](https://github.com/rodriguezarielc2/IngenieriaDelSoftware1-2026B-UAEMex/commit/a2ee12771144c6212eb5c1045d62ffabffb4d6e1), que ya resolvía el encabezado y el rótulo del README del proyecto. Se conserva esa aportación al integrar el resto de las correcciones.
+- Se corrigieron cien incidencias de signos sin pareja o mal delimitados en veintidós transcripciones. Se comprobó que conservaran su contenido léxico; los términos dudosos no se reinterpretaron. No hubo cotejo contra audio.
+- El usuario confirmó que las respuestas de la encuesta deben permanecer tal como las escribieron los participantes. No editar el libro para corregir esas respuestas ni presentar una paráfrasis como cita literal.
+- Las instrucciones de entrada, el manual, el procedimiento de módulos y las pautas incorporan este criterio para futuras aportaciones. Los controles mecánicos de signos ayudan a localizar incidencias, pero requieren revisión de contexto y no garantizan por sí solos una corrección lingüística exhaustiva.

@@ -5,7 +5,7 @@ description: Analiza y documenta un módulo del proyecto final de Ingeniería de
 
 # Documentar un módulo del sistema de control escolar
 
-## Cuándo usar esta habilidad
+## ¿Cuándo usar esta habilidad?
 
 Úsala cuando el usuario solicite analizar, crear o revisar la documentación de un módulo del proyecto final. El repositorio de apuntes y el repositorio de entrega pueden ser distintos; confirma la ubicación antes de editar archivos.
 
@@ -53,3 +53,4 @@ Adáptala al template vigente; no la impongas si el proyecto ya tiene una estruc
 - Las dependencias de datos y servicios compartidos están explícitas.
 - Los diagramas representan la misma versión de los requisitos y son legibles.
 - El documento está enlazado desde el README general y los puntos abiertos no se presentan como resueltos.
+- Se revisaron la puntuación y los signos de apertura y cierre en español de México, incluidos los encabezados formulados como preguntas. Se distinguieron las preguntas directas de las interrogativas indirectas.

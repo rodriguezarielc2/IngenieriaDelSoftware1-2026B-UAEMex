@@ -62,3 +62,5 @@ Los materiales se organizan en:
 ## Nota de lectura
 
 Las transcripciones pueden contener errores de reconocimiento o fragmentos incompletos. El contexto complementario sirve como apoyo y no sustituye la transcripción ni convierte los ejemplos de clase en requisitos oficiales del proyecto.
+
+Se corrigieron incidencias puntuales de puntuación en las transcripciones, conservando sus palabras y términos dudosos. Esta revisión no constituye un cotejo contra audio. Las respuestas de la encuesta se conservan tal como las escribieron sus participantes.

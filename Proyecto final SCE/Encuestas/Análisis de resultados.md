@@ -1,6 +1,6 @@
 # Análisis exploratorio de la encuesta SCE
 
-## Qué se analizó
+## ¿Qué se analizó?
 
 Se leyeron los diez campos abiertos de 194 envíos en la [copia anonimizada](<Respuestas anonimizadas.xlsx>). La pestaña **Preguntas** conserva el cuestionario. Esta lectura identifica problemas y solicitudes para discutir el alcance; no constituye una medición de rendimiento ni una estimación estadística de prevalencia.
 
@@ -8,7 +8,7 @@ Los ejemplos siguientes son **paráfrasis** de celdas concretas. Para consultarl
 
 ## Necesidades que vale la pena discutir
 
-| ID de hallazgo | Evidencia en la copia pública | Qué expresa el testimonio | Propuesta para analizar | Responsables relacionados |
+| ID de hallazgo | Evidencia en la copia pública | ¿Qué expresa el testimonio? | Propuesta para analizar | Responsables relacionados |
 |---|---|---|---|---|
 | H01 | `R-1AC44D861D`, P1 y P10; `R-9C0CF89188`, P1 | Dificultad para ver y seleccionar elementos desde el celular, comparada con computadora. | Definir tareas y tamaños de pantalla para evaluar navegación y presentación; preparar wireframes. No se fija un umbral arbitrario. | Todos; coordinación de interfaz por acordar. |
 | H02 | `R-9C0CF89188`, P2 y P4; `R-186C0DCA17`, P2 y P10 | Cruces de horario, información de cupo que cambia y falta de vista previa de la selección. | Acordar cómo se consulta oferta, se valida traslape y se confirma el cupo; distinguir escasez real de plazas frente a información desactualizada. | E2, E4, E5; E3 como fuente docente. |
@@ -38,7 +38,7 @@ No se excluyeron relatos por ser positivos, negativos, ambiguos o poco útiles. 
 5. **Instrumento y fuentes:** la encuesta consulta experiencia estudiantil. No permite determinar por sí sola permisos de administradores, estructura del registro docente o reglas oficiales de evaluación. La anonimización limita además los cruces demográficos.
 6. **Cuantificación pendiente:** no se calculan porcentajes temáticos porque aún no se ha acordado ni aplicado un código de categorías con tratamiento de negaciones, ambigüedades y respuestas múltiples. El total de 194 no es un denominador automático para cualquier afirmación.
 
-## Cómo convertir estos hallazgos en trabajo con propósito
+## ¿Cómo convertir estos hallazgos en trabajo con propósito?
 
 | Paso | Producto y criterio |
 |---|---|

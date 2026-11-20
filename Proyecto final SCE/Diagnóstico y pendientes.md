@@ -41,7 +41,7 @@ Los bloques PlantUML de Profesores sí contienen código. El pendiente es su int
 - **Requisitos de calidad:** “pocos pasos”, “alta demanda” o “tiempo adecuado” necesitan condiciones para evaluarse. Los valores de 2, 3 o 5 segundos que aparecen en documentos requieren fuente o acuerdo y escenario de carga; la encuesta no fija esos umbrales.
 - **Arquitectura:** caché, colas, APIs y proveedor de identidad aparecen en algunas vistas. Acordar cuáles son decisiones respaldadas y cuáles propuestas; la percepción de lentitud no demuestra que una cola, más servidores o cierta tecnología sea la solución necesaria.
 
-## Qué aporta la encuesta
+## ¿Qué aporta la encuesta?
 
 La [lectura exploratoria](<Encuestas/Análisis de resultados.md>) permite respaldar necesidades con testimonios concretos: uso móvil, elección de horarios/cupos, interrupciones, ubicación de información y seguimiento de trámites. También contiene experiencias positivas y solicitudes fuera del alcance actual. No permite diagnosticar causas técnicas, medir tiempos reales, probar fallas de seguridad ni justificar porcentajes de prevalencia sin un método de codificación y muestreo adicional.
 
