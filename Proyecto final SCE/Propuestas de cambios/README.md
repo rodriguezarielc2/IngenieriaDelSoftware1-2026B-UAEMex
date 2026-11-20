@@ -2,6 +2,8 @@
 
 Aquí se preparan aportaciones propias para revisión del equipo. **Ningún paquete de esta carpeta se ha enviado como PR al profesor.** Las carpetas `PR-001`, `PR-002` y `PR-003` son identificadores locales; no corresponden a números de GitHub.
 
+Al redactar una aportación, seguir las [pautas de presentación](<../Pautas de presentación.md>).
+
 ## Paquetes iniciales
 
 | Paquete | Objetivo | Estado | Coordinación necesaria |
