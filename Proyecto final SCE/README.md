@@ -4,7 +4,7 @@ Esta carpeta reúne el trabajo de planeación y las propuestas para el sistema d
 
 Aquí preparamos aportaciones para que el equipo las revise. La entrega oficial se integra mediante PR en [el repositorio del profesor](https://github.com/wichis/26b_is1_proyecto-final), rama `develop`.
 
-## Cómo se organiza el trabajo
+## ¿Cómo se organiza el trabajo?
 
 El plan establece las tareas y sus dependencias. El diagnóstico identifica faltantes de la versión revisada, y la encuesta aporta testimonios para discutir necesidades. Las propuestas reúnen cambios concretos y textos para preparar su envío al profesor.
 
@@ -12,7 +12,7 @@ Cada equipo conserva la responsabilidad de sus módulos. Las tareas compartidas,
 
 ## Documentos
 
-| Documento | Para qué consultarlo |
+| Documento | ¿Para qué consultarlo? |
 |---|---|
 | [Plan de trabajo](<Plan de trabajo.md>) | Elegir la siguiente tarea y conocer qué necesita para cerrarse. |
 | [Diagnóstico y pendientes](<Diagnóstico y pendientes.md>) | Revisar qué falta y qué inconsistencias deben resolverse. |
