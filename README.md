@@ -51,7 +51,9 @@ La carpeta [Proyecto final SCE](<Proyecto final SCE/README.md>) reúne un plan p
 
 ## Recursos para agentes de IA
 
-Archivos configurados para apoyar el proyecto final de control escolar, aplicando la separación entre instrucciones, memoria y habilidades sin convertir los ejemplos del video en requisitos del sistema:
+El punto de entrada para un asistente es [AGENTS.md](AGENTS.md). Indica leer el manual y la memoria antes de trabajar y registrar al cierre las decisiones y cambios relevantes. Si la herramienta no lee instrucciones de repositorio automáticamente, hay que proporcionarle ese archivo o pedirle que lo consulte.
+
+Los materiales se organizan en:
 
 - [Manual del agente del proyecto final](<Material complementario - Agentes de IA/Agents.md>)
 - [Memoria del proyecto final](<Material complementario - Agentes de IA/Memory.md>)

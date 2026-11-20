@@ -31,7 +31,7 @@ Si falta una fuente importante o su versión es dudosa, informa la limitación y
 7. **Elabora modelos pertinentes.** Usa actores y casos de uso para la vista externa; contexto y flujo de datos para entradas, salidas y límites; clases y componentes para estructura; y secuencia, actividades o estados para comportamiento. Incluye solo elementos respaldados por requisitos y por el comportamiento del módulo.
 8. **Resuelve las reglas de diagramación con el template vigente.** Las notas de clase 19 y 21 describen conjuntos parcialmente distintos para cada caso de uso. Si el template actual no resuelve cuál aplica, documenta la discrepancia y pregunta antes de completar diagramas en lote.
 9. **Revisa la integración.** Comprueba que actores, roles, permisos, datos, CRUD, transiciones de estado, nombres y responsabilidades no contradigan a otros módulos. Revisa también la tabla común de actores/roles/permisos cuando exista.
-10. **Entrega e integra la documentación.** Sigue el formato del repositorio, conserva los diagramas legibles en el tamaño requerido, enlaza el archivo desde el índice general y deja claras las decisiones pendientes. No hagas commit o push salvo petición explícita.
+10. **Entrega e integra la documentación.** Sigue las pautas de presentación del proyecto, conserva los diagramas legibles en el tamaño requerido, enlaza el archivo desde el índice general y deja claras las decisiones pendientes. Actualiza `../../Memory.md` cuando haya decisiones o avances relevantes comprobados, conforme al mantenimiento autorizado en el manual. No hagas commit o push salvo petición explícita.
 
 ## Estructura sugerida del documento de módulo
 

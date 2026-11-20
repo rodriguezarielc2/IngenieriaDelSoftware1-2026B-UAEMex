@@ -15,7 +15,7 @@ Guía propuesta para los documentos y aportaciones del proyecto SCE. La [plantil
 
 ## Organización del contenido
 
-- **README:** propósito breve e índice. Las tareas van en el plan, los detalles técnicos en el módulo y las fuentes en el documento correspondiente. Evitar explicar lo mismo en varios lugares.
+- **README:** propósito, organización del trabajo, índice y orientación breve para colaborar. Dar contexto suficiente al entrar a la carpeta sin repetir el plan completo. Las tareas detalladas van en el plan, los detalles técnicos en el módulo y las fuentes en el documento correspondiente.
 - **Módulos:** conservar los apartados y el orden de la plantilla oficial. Integrar datos, metadatos y reglas en secciones identificables conforme a las indicaciones vigentes.
 - **Requisitos y casos de uso:** usar identificadores estables y mencionar el módulo para evitar ambigüedad. Mantener los nombres en texto, tablas y diagramas.
 - **Diagramas:** título descriptivo, enlace al archivo fuente UML, imagen visible con texto alternativo y una explicación breve. Deben poder leerse en tamaño carta. La plantilla exige componentes y secuencia por caso de uso, además de los otros modelos que especifica.
