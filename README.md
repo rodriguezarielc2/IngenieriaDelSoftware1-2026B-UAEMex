@@ -6,16 +6,16 @@ Materiales de apoyo para estudiar y trabajar los temas de la asignatura.
 
 Ingeniería de Software I estudia cómo transformar una necesidad real en una solución de software bien planteada. Para ello, primero se analiza el problema y el contexto donde ocurre: quiénes participan, qué procesos existen, qué información se necesita, qué recursos están disponibles y qué límites o restricciones debe respetar el sistema. La materia promueve justificar las decisiones con información y necesidades identificadas, en lugar de comenzar directamente por una solución técnica.
 
-En los materiales disponibles hasta la clase 23 se desarrollan varios ejes relacionados:
+En los materiales disponibles hasta la clase 24 se desarrollan varios ejes relacionados:
 
 - **Sistemas y organizaciones:** componentes, entradas, procesos, salidas, retroalimentación, límites y relación con el entorno; también se estudian sistemas de información dentro de las organizaciones.
 - **Procesos de software:** ciclo de vida, modelos de desarrollo y enfoques iterativos. Se revisan prácticas y marcos como Scrum, Kanban y DevOps.
 - **Análisis y requisitos:** recopilación de información, entrevistas, identificación de usuarios y necesidades, definición del alcance, requisitos funcionales y no funcionales, viabilidad y criterios de calidad.
 - **Diseño y modelado:** representación de actores, procesos, datos, componentes y comportamiento mediante casos de uso y diagramas de contexto, flujo de datos, clases, secuencia, estados y actividades. También se trabaja la definición de entidades, metadatos, reglas de datos y relaciones entre módulos para el proyecto de control escolar.
 - **Verificación y colaboración:** pruebas y aspectos de calidad como rendimiento y disponibilidad, organización modular del trabajo y uso de control de versiones para coordinar e integrar aportaciones. Se enfatiza revisar la consistencia de los módulos y evaluar críticamente los resultados de herramientas de inteligencia artificial.
-- **Formalización del análisis:** patrones y técnicas de análisis de negocio, sistemas, objetos y datos; análisis de impacto y dependencias, normalización y reusabilidad de componentes y modelos.
+- **Formalización del análisis:** patrones y técnicas de análisis de negocio, sistemas, objetos y datos; depuración y homologación de sustantivos; diccionarios de datos, metadatos y reglas; análisis de impacto y dependencias, normalización y reusabilidad de componentes y modelos.
 
-En conjunto, la asignatura busca desarrollar la capacidad de analizar antes de diseñar, comunicar necesidades con claridad, expresar una solución mediante requisitos y modelos, considerar su calidad y restricciones, y colaborar en su integración. Esta descripción se basa en los materiales disponibles hasta la clase 23 y no sustituye el programa oficial ni las instrucciones vigentes del docente.
+En conjunto, la asignatura busca desarrollar la capacidad de analizar antes de diseñar, comunicar necesidades con claridad, expresar una solución mediante requisitos y modelos, considerar su calidad y restricciones, y colaborar en su integración. Esta descripción se basa en los materiales disponibles hasta la clase 24 y no sustituye el programa oficial ni las instrucciones vigentes del docente.
 
 ## Proyecto final: sistema de control escolar
 
@@ -27,13 +27,15 @@ La distribución inicial de clase asignó seis módulos: alumnos, inscripciones,
 
 ### Documentación del proyecto
 
-Las indicaciones registradas hasta la clase 22 plantean mantener el trabajo en un repositorio común de GitHub y documentarlo en Markdown. El README principal funciona como entrada e índice del sistema: presenta el problema, los objetivos, el contexto general y los requisitos de nivel 0, además de enlazar la documentación de los módulos. En cada módulo se detallan sus actores, funciones, casos de uso, requisitos de nivel 1 y modelos pertinentes; el análisis puede profundizar hasta el nivel 2. Entre los modelos solicitados para describir los módulos se mencionan diagramas de componentes, secuencia, estados y clases, además de casos de uso y tablas de actores, roles y permisos. En la clase 22 se pidió precisar, por módulo, el dato principal, sus metadatos y las reglas o condiciones aplicables, así como complementar el diagrama entidad-relación general.
+Las indicaciones registradas hasta la clase 24 plantean mantener el trabajo en un repositorio común de GitHub y documentarlo en Markdown. El README principal funciona como entrada e índice del sistema: presenta el problema, los objetivos, el contexto general y los requisitos de nivel 0, además de enlazar la documentación de los módulos. En cada módulo se detallan sus actores, funciones, casos de uso, requisitos de nivel 1 y modelos pertinentes; el análisis puede profundizar hasta el nivel 2. Entre los modelos solicitados para describir los módulos se mencionan diagramas de componentes, secuencia, estados y clases, además de casos de uso y tablas de actores, roles y permisos. En la clase 22 se pidió precisar, por módulo, el dato principal, sus metadatos y las reglas o condiciones aplicables, así como complementar el diagrama entidad-relación general. La clase 24 desarrolló la depuración de sustantivos y la definición de campos del diccionario de datos con descripciones, tipos, rangos, restricciones y reglas de negocio.
 
 La colaboración también forma parte del proyecto: los cambios se integran mediante commits y pull requests, y la documentación de cada módulo debe quedar enlazada desde el índice común. La evaluación considera tanto las aportaciones registradas como la capacidad individual de explicar y justificar decisiones del sistema completo.
 
-La estructura del entregable sigue evolucionando. En la clase 21 se anticiparon el diccionario de datos y el diagrama relacional; en la clase 22 se solicitó agregar por módulo la definición del dato, sus metadatos y sus reglas o condiciones, además de completar el diagrama entidad-relación general. Esta sección resume indicaciones de las clases 13, 21 y 22; para preparar la entrega se debe revisar la versión más reciente del formato y las instrucciones del docente.
+La estructura del entregable sigue evolucionando. En la clase 21 se anticiparon el diccionario de datos y el diagrama relacional; en la clase 22 se solicitó agregar por módulo la definición del dato, sus metadatos y sus reglas o condiciones, además de completar el diagrama entidad-relación general. Esta sección resume indicaciones de las clases 13, 21, 22, 23 y 24; para preparar la entrega se debe revisar la versión más reciente del formato y las instrucciones del docente.
 
 La clase 23 reiteró completar módulos y README, atender comentarios de pull requests y mantener modelos UML con código fuente e imágenes. También se pidió una presentación homogénea y coherencia entre aportaciones.
+
+En la clase 24 se indicó usar `develop` como referencia para evaluar el estado final, con fecha límite comunicada para el jueves 3 de diciembre de 2026 y presentaciones desde el viernes 4. Se pidió completar el README general con información de nivel cero, organizar la documentación y los diagramas en las carpetas acordadas, revisar enlaces y mantener correspondencia entre fuente UML y representación gráfica. Las presentaciones previstas son de 50 minutos, con 30 para explicar y justificar el módulo y 20 para preguntas; todos los integrantes deben participar y conocer la relación entre módulos. Estas fechas y pautas corresponden a lo comunicado en esa sesión y pueden cambiar con indicaciones posteriores.
 
 ### Planeación y propuestas compartidas
 
@@ -48,6 +50,7 @@ La carpeta [Proyecto final SCE](<Proyecto final SCE/README.md>) reúne un plan p
 - Las transcripciones están dentro de la carpeta de su clase.
 - Cuando existe, `Contexto complementario.md` amplía los temas tratados en esa sesión.
 - [Clase 23 — Patrones de análisis y reusabilidad](<Clase 23 - Patrones de análisis - 2026-11-18/README.md>): resumen, contexto visual descrito y transcripción con nombres de participantes omitidos.
+- [Clase 24 — Análisis de sustantivos y diccionario de datos](<Clase 24 - Análisis de sustantivos y diccionario de datos - 2026-11-25/README.md>): resumen, contexto complementario y transcripción anonimizada.
 
 ## Recursos para agentes de IA
 
